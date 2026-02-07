@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; max-width: 500px; margin: 50px auto; }
+.container { background: #f4f4f4; padding: 20px; border-radius: 8px; }
+input { width: 70%; padding: 10px; }
+button { padding: 10px 20px; background: #007bff; color: white; border: none; cursor: pointer; }
+ul { list-style: none; padding: 0; }
+li { background: white; margin: 10px 0; padding: 15px; display: flex; align-items: center; border-radius: 5px; }
+li.completed { text-decoration: line-through; opacity: 0.6; }
+.delete { background: #dc3545; margin-left: auto; padding: 5px 10px; }
